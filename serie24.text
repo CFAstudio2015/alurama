@@ -1,11 +1,11 @@
-1000,cadre superieur,500,600,700,800,900,
-*1001,cadre inferieur,510,520,530,540,550,
-*1002,cadre lateral,600,700,800,900,1000,
-*1003,paneau lateral,400,410,420,430,450,
-*1004,paneau central,400,410,420,430,450,
-*1005,paneau rod,450,460,470,480,490,
-*1006,couvre joint,300,310,320,330,340,
-*ac1,sérure s24,200,
-*ac2,roulement,150,
-*ac3,kit s24,250,
-*ac4,suplement,600,
+1000,cadre superieur,500,600,700,800,900
+*1001,cadre inferieur,510,520,530,540,550
+*1002,cadre lateral,600,700,800,900,1000
+*1003,paneau lateral,400,410,420,430,450
+*1004,paneau central,400,410,420,430,450
+*1005,paneau rod,450,460,470,480,490
+*1006,couvre joint,300,310,320,330,340
+*ac1,sérure s24,200
+*ac2,roulement,150
+*ac3,kit s24,250
+*ac4,suplement,600
